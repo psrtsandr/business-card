@@ -7,7 +7,8 @@ function App() {
         <>
             <div>
                 <div>
-                    <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
+                    <p>Всем привет!</p>
+                    <span>Я являюсь разработчиком настольных и веб-приложений. Мой карьерный путь начался в 2022 году. Начинал с разработки программных модулей для программного комплекса, предназначенного для моделирования систем безопасности. Владею C#, WPF, Entity Framework, ASP.NET, MS SQL Server и другими технологиями.</span>
                 </div>
                 <div>
                     <a href="https://github.com/psrtsandr" target="_blank">
