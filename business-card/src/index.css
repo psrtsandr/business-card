@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #ffffff;
+  background-color: #242424;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -23,23 +23,11 @@ a:hover {
 }
 
 body {
-    margin: 0;
-    display: flex;
-    place-items: center;
-    min-width: 320px;
-    min-height: 100vh;
-    background: linear-gradient(45deg, #333 25%, transparent 25%) -50px 0/100px 100px, linear-gradient(135deg, #333 25%, transparent 25%) -50px 0/100px 100px, linear-gradient(45deg, transparent 75%, #111 75%) -50px 0/100px 100px, linear-gradient(135deg, transparent 75%, #111 75%) -50px 0/100px 100px;
-    background-color: #222;
-}
-
-@keyframes animatePlaid {
-    0% {
-        background-position: 0 0, 0 0, 0 0, 0 0;
-    }
-
-    100% {
-        background-position: 100px 100px, -100px 100px, 100px -100px, -100px -100px;
-    }
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
 }
 
 h1 {
